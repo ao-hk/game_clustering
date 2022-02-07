@@ -1,1 +1,1 @@
-Paper "Game theoretic clustering for finding strongcommunities" with Appendix.
+Paper "Game theoretic clustering for finding strong communities" with Appendix.
